@@ -1,0 +1,1 @@
+CREATE TABLE public.agency_status_master(id SERIAL PRIMARY KEY, status VARCHAR(25) NOT NULL);
